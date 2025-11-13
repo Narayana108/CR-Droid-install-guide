@@ -2,6 +2,7 @@
 
 ## Prerequisites
 - [1 - Install OrangeFox Recovery](https://github.com/Narayana108/-CR-Droid-install-guide/blob/main/1-flash-orangefox-recovery.md) Guide completed.
+  
 **Things break easily ! Always have backups !**
 
 POCO F5 (Marble) has two slots, Slot A and Slot B, these work like partitions. User Data is separated from the OS, Kernel and Firmware Data as it is stored on a separate Slot.
