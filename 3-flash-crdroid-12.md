@@ -145,9 +145,9 @@ But these are the best guides I have seen on the internet till date.
 **Again, use at own risk !**
 **For education purposes only**
 
-	👨‍💻 Yuri Root Channel:
-    📚 All methods for: Root, Hide Root, By Pass Ingegrity, root dection, etc.
-    🎯 Channel: t.me/yuriiroot
+	- Yuri Root Channel:
+    - All methods for: Root, Hide Root, By Pass Ingegrity, root dection, etc.
+    - Channel: t.me/yuriiroot
 ---
 
 ✅ All Done.
