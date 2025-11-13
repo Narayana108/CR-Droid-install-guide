@@ -1,6 +1,8 @@
 # CR‑Droid 12.2 Full Installation Guide
 # For POCO F5 (Marble)
 
+CR‑Droid is a Custom Android ROM.
+Find out more on the offical site: https://crdroid.net/
 
 ## Quick links:
 - [1 - Install OrangeFox Recovery](https://github.com/Narayana108/-CR-Droid-install-guide/blob/main/1-flash-orangefox-recovery.md) 
@@ -10,3 +12,4 @@
 Read in order.
 
 _Use at your own risk._
+
