@@ -2,8 +2,8 @@
 _Guide is for: CRDroid 12.2 - 31 October 2025_
 
 ## Prerequisites
-	- Phone model: POCO F5 Marble
-	- '2 - Data Backup & ROM Recovery' Guide completed.
+- Phone model: POCO F5 Marble
+- [2 - Data Backup & ROM Recovery](https://github.com/Narayana108/-CR-Droid-install-guide/blob/main/2-data-backup-and-rom-recovery.md) Guide completed.
 
 ## Good to know
     - CRDoid 12.2 is stable and amazing !
