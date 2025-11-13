@@ -81,4 +81,4 @@ You should now be booted into fastboot.
         fastboot reboot recovery
 ---
 
-➡️ Next: '2 - Data Backup & ROM Recovery'
+➡️ Next: [2 - Data Backup & ROM Recovery](https://github.com/Narayana108/-CR-Droid-install-guide/blob/main/2-data-backup-and-rom-recovery.md)
