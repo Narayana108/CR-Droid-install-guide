@@ -1,8 +1,7 @@
 # 2 - Data Backup & ROM Recovery
 
 ## Prerequisites
-    - '1 - Install OrangeFox Recovery' Guide completed.
-
+- [1 - Install OrangeFox Recovery](https://github.com/Narayana108/-CR-Droid-install-guide/blob/main/1-flash-orangefox-recovery.md) Guide completed.
 **Things break easily ! Always have backups !**
 
 POCO F5 (Marble) has two slots, Slot A and Slot B, these work like partitions. User Data is separated from the OS, Kernel and Firmware Data as it is stored on a separate Slot.
@@ -91,4 +90,4 @@ head -n5 ~/Phone/backups/apps/installed_apps.txt
 ```
 
 ---
-➡️ Next Guide: '3 - Install CRDroid 12.2'
+➡️ Next Guide: [3 - Install CRDroid 12.2](https://github.com/Narayana108/-CR-Droid-install-guide/blob/main/3-flash-crdroid-12.md)
