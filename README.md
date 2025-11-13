@@ -1,5 +1,6 @@
-# CR‑Droid 12 POCO F5 (Marble)
-# Installation Guide (3‑part)
+# CR‑Droid 12.2 Full Installation Guide
+# For POCO F5 (Marble)
+
 
 ## Quick links:
 - [1 - Install OrangeFox Recovery](https://github.com/Narayana108/-CR-Droid-install-guide/blob/main/1-flash-orangefox-recovery.md) 
