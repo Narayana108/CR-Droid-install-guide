@@ -8,7 +8,7 @@ _Guide is for: CRDroid 12.2 - 31 October 2025_
 ## Good to know
     - CRDoid 12.2 is stable and amazing !
     - CRDroid can run all you apps and Google Playstore.
-    - I don't use Google or Google Playstore, so that is not included in this Guide.
+    - I don't use Google or Google Playstore, so that is not included properly in this Guide.
     - CRDroid can run apps with strong security/integrity checks such as Bank apps, but that requires modifications.
 
 ## Important info
@@ -138,9 +138,8 @@ adb push ~/Phone/backups/media/PipePipeData.zip /sdcard/
 
 3. Join a telegram group to get full guides on how to proceed:
 
-I only used the information in this group as a secondary means to fix a certain problem I had. 
-I am not that familiar with what software is being used at share. 
-But these are the best guides I have seen on the internet till date.
+_I am not that familiar with what software is being used at share in this group and some could be potential malicious.
+But these are the best guides I have seen on the internet till date._
 
 **Again, use at own risk !**
 **For education purposes only**
